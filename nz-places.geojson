@@ -1,0 +1,387 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "one tree hill - good mountain to drive up to get a nice view of the whole city, you can drive car to the top"
+      },
+      "geometry": {
+        "coordinates": [
+          174.783133,
+          -36.900136
+        ],
+        "type": "Point"
+      },
+      "id": "023ccc044bf54b32888bca5bffa9e30b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Huka Falls - amazing waterfall"
+      },
+      "geometry": {
+        "coordinates": [
+          176.085459,
+          -38.65926
+        ],
+        "type": "Point"
+      },
+      "id": "17c24b5c99b5e2f0907a7998aa5a50e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Waihi Beach - a typical NZ beach, nice for a visit"
+      },
+      "geometry": {
+        "coordinates": [
+          175.943625,
+          -37.406364
+        ],
+        "type": "Point"
+      },
+      "id": "4476373917334323815659604cea8457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Some mountains & large volcanic lake. "
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              176.081574,
+              -38.672439
+            ],
+            [
+              175.739203,
+              -38.654213
+            ],
+            [
+              175.614362,
+              -39.023153
+            ],
+            [
+              175.394055,
+              -39.319198
+            ],
+            [
+              175.62905,
+              -39.395852
+            ],
+            [
+              175.849357,
+              -39.120074
+            ],
+            [
+              176.150443,
+              -38.803163
+            ],
+            [
+              176.081574,
+              -38.672439
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5770acf49f1a8b19cb1a05cf15a07e39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Rangitoto - a nice day-trip from Auckland, big volcanic island dominates Auckland skyline, you can get a ferry from city centre and walk up the top, great views, you might see some Orcas, there have been many recently in Auckland harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          174.859852,
+          -36.784888
+        ],
+        "type": "Point"
+      },
+      "id": "5a9893ca7640be308ce1c1efbc6b2853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Rotorua - lots of tourist attractions, thermal parks etc..."
+      },
+      "geometry": {
+        "coordinates": [
+          176.251501,
+          -38.145164
+        ],
+        "type": "Point"
+      },
+      "id": "687673825bfe9edfbb8aa5a9b0a87e1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Great place for whale watching, seals penguins, dolphins - kind of the monterrey bay of NZ"
+      },
+      "geometry": {
+        "coordinates": [
+          173.709621,
+          -42.394123
+        ],
+        "type": "Point"
+      },
+      "id": "69cc36770028c6d8976822cc429ed42d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Mt Maunganui - nice mountain & beaches"
+      },
+      "geometry": {
+        "coordinates": [
+          176.174032,
+          -37.631004
+        ],
+        "type": "Point"
+      },
+      "id": "909796a4f49c086ad4408d96a43981c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "decription": "Hot water beach - the name says it all, hot water at the beach, interesting place for a visit"
+      },
+      "geometry": {
+        "coordinates": [
+          175.82289,
+          -36.888644
+        ],
+        "type": "Point"
+      },
+      "id": "9f45b1f42ea973b445e29876526b5f17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "auckland airport"
+      },
+      "geometry": {
+        "coordinates": [
+          174.785328,
+          -37.008176
+        ],
+        "type": "Point"
+      },
+      "id": "ae40a745a706a2de2f864256d83c01de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "coastal walk Hahei to Cathedral Cove - one of the most picturesque beaches in NZ, look it up, basically a must see"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            175.79964,
+            -36.834206
+          ],
+          [
+            175.79758,
+            -36.832832
+          ],
+          [
+            175.794576,
+            -36.832042
+          ],
+          [
+            175.792044,
+            -36.830222
+          ],
+          [
+            175.790843,
+            -36.828951
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "b8019dd2d88e4f39e595b2d702838ff3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piha - great day trip from Auckland, drive through beautiful forests and then wild surf beach at the end, black sand surf beach"
+      },
+      "geometry": {
+        "coordinates": [
+          174.468614,
+          -36.955502
+        ],
+        "type": "Point"
+      },
+      "id": "cd50a6166f8173758ef57ba190ff168e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "New Chums Beach - maybe the best beach in NZ, very isolated, beautiful place"
+      },
+      "geometry": {
+        "coordinates": [
+          175.605647,
+          -36.697734
+        ],
+        "type": "Point"
+      },
+      "id": "d1da40aa2a9720be78ef26ba9036aaaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "nice coastal walk & beach"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            175.938381,
+            -37.396561
+          ],
+          [
+            175.940441,
+            -37.39247
+          ],
+          [
+            175.940785,
+            -37.387287
+          ],
+          [
+            175.937695,
+            -37.382377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d95312a8ac5443adb110b09d7220ef97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Hahea - nice beach town, another nice typical NZ beach, good for a visit"
+      },
+      "geometry": {
+        "coordinates": [
+          175.804883,
+          -36.837816
+        ],
+        "type": "Point"
+      },
+      "id": "dc5c4178b59f1c46211d710081809028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "some seriously nice mountains, glaciers & nature in general.  basically lord of the rings mountains"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              170.903822,
+              -42.783213
+            ],
+            [
+              167.82765,
+              -44.453297
+            ],
+            [
+              166.443373,
+              -45.740604
+            ],
+            [
+              166.641126,
+              -46.426411
+            ],
+            [
+              167.937513,
+              -46.289931
+            ],
+            [
+              169.65138,
+              -44.797338
+            ],
+            [
+              172.156263,
+              -43.008571
+            ],
+            [
+              172.266126,
+              -42.476054
+            ],
+            [
+              170.903822,
+              -42.783213
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e9ee9e8fb45851e8d4d63408289d2803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Bueatiful region of islands & inlets, great for boat trips & sea kayaking"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              173.629441,
+              -41.03617
+            ],
+            [
+              173.948045,
+              -41.276052
+            ],
+            [
+              174.299607,
+              -41.333823
+            ],
+            [
+              174.420457,
+              -41.069309
+            ],
+            [
+              173.904099,
+              -40.728839
+            ],
+            [
+              173.629441,
+              -41.03617
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ef9b51d45e7810d438e8c35b84cfc3e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "'thermal highway' - lots of thermal parks - geysers, mud pools etc.."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            176.245909,
+            -38.185303
+          ],
+          [
+            176.124741,
+            -38.579622
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "f1026b7052bcd5218c8819aa45fdbfeb"
+    }
+  ],
+  "type": "FeatureCollection"
+}
