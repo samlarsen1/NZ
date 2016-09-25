@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Some mountains & large volcanic lake. "
+        "description": "Lake Taupo & Tongariro National Park - Some mountains & large volcanic lake. "
       },
       "geometry": {
         "coordinates": [
@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Great place for whale watching, seals penguins, dolphins - kind of the monterrey bay of NZ"
+        "description": "Kaikoura - Great place for whale watching, seals penguins, dolphins - kind of the monterrey bay of NZ"
       },
       "geometry": {
         "coordinates": [
@@ -263,7 +263,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Hahea - nice beach town, another nice typical NZ beach, good for a visit"
+        "description": "Hahei - nice beach town, another nice typical NZ beach, good for a visit"
       },
       "geometry": {
         "coordinates": [
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "some seriously nice mountains, glaciers & nature in general.  basically lord of the rings mountains"
+        "description": "Southern Alps - some seriously nice mountains, glaciers & nature in general.  basically lord of the rings mountains"
       },
       "geometry": {
         "coordinates": [
@@ -327,7 +327,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Bueatiful region of islands & inlets, great for boat trips & sea kayaking"
+        "description": "Marlborough Sounds - Bueatiful region of islands & inlets, great for boat trips & sea kayaking"
       },
       "geometry": {
         "coordinates": [
